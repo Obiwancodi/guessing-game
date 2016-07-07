@@ -1,0 +1,80 @@
+html, body, h1, h2, p, img {
+	padding: 0;
+	border : 0;
+	margin : 0;
+	font: inherit;
+	font-size: 100%
+}
+
+h1 {
+	padding: 30px 0 40px 0;
+	color: #e2e6e9;
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 70px;
+	background-image: url(http://www.slotsumo.com/wp-content/uploads/2015/03/jeopardy_slot_bg.jpg);
+	margin: 0 0 60px 0;
+	
+}
+
+h2 {
+
+	margin: 40px 0 40px 0;
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 40px;
+}
+
+input[type = text] {
+	font-size: 25px
+	
+}
+
+img {
+	padding: 0 10px 0 auto;
+}
+
+input[type=text] {
+	margin: 0 auto 0 auto;
+}
+
+input[type=submit] {
+	
+	width: 160px;
+	font-size: 30px;
+	background-color: #39B7CD;
+	border-radius: 18px;
+-moz-border-radius: 5px;
+
+}
+
+p {
+	text-align: center;
+	
+}
+
+.hot-cold {
+	font-size: 30px;
+	margin: 40px;
+}
+
+.guess-text {
+	margin: 0 0 0 500px;
+}
+
+.test {
+	margin: 0 0 0 20px;
+	
+}
+
+.submit-guess {
+	margin: 0 0 0 470px;
+}
+.advice {
+	font-size: 25px;
+	margin: 35px;
+}
+
+h3 {
+	text-align: center;
+}
