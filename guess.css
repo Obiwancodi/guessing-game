@@ -17,7 +17,7 @@ h1 {
 	
 }
 
-h2 {
+.lose, h2 {
 
 	margin: 40px 0 40px 0;
 	text-align: center;
@@ -38,7 +38,7 @@ input[type=text] {
 	margin: 0 auto 0 auto;
 }
 
-input[type=submit] {
+input[type=button] {
 	
 	width: 160px;
 	font-size: 30px;
